@@ -1,3 +1,2 @@
-function(demo){
-	return 'hello world:'+demo;
-}
+
+welcome('super man');
