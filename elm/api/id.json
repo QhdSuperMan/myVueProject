@@ -1,0 +1,32 @@
+{
+  "slides": [{
+    "src": "/static/img/right1.png",
+    "title": "xxx1",
+    "href": "#"
+  }, {
+    "src": "/static/img/right2.png",
+    "title": "xxx2",
+    "href": "#"
+  }, {
+    "src": "/static/img/right3.png",
+    "title": "xxx2",
+    "href": "#"
+  }, {
+    "src": "/static/img/right4.png",
+    "title": "xxx2",
+    "href": "#"
+  }],
+  "list": [{
+    "id": 1,
+    "url": "#",
+    "title": "文艺"
+  }, {
+    "id": 2,
+    "url": "#",
+    "title": "经管"
+  }, {
+    "id": 3,
+    "url": "#",
+    "title": "社科"
+  }]
+}
